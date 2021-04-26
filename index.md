@@ -11,15 +11,15 @@
 
 <body>
   <div class="top-container">
-    <img class="top-cloud" src="images/cloud.png" alt="">
+    <img class="top-cloud" src="cloud.png" alt="">
     <h1>I'm Eve</h1>
     <h2>a programmer</h2>
-    <img class="bottom-cloud" src="images/cloud.png" alt="">
-    <img src="images/mountain.png" alt="">
+    <img class="bottom-cloud" src="cloud.png" alt="">
+    <img src="mountain.png" alt="">
   </div>
   <div class="middle-container">
     <div class="profile">
-      <img class="circular-img" src="images/Maruko_artwork_series2_01.png" alt="">
+      <img class="circular-img" src="Maruko_artwork_series2_01.png" alt="">
       <h2>Hello</h2>
       <p>I'm Eve, Pitchaya Lakool and Welcome to My site!</p>
     </div>
@@ -39,7 +39,7 @@
 
       </div>
       <div class="skill-row">
-        <img class="design-image" src="images/xd.png" alt="">
+        <img class="design-image" src="xd.png" alt="">
         <div class="skill-text">
           <h3>Design skills</h3>
           <p>
